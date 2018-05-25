@@ -17,7 +17,19 @@ a{
   font-weight: bold;
 }
 
-#title{
+.header{
+  font-size: 23px;
   font-weight: bold;
+}
+
+#title{
   font-size: 70px;
+}
+
+#process{
+  font-size: 32px;
+}
+
+#identify{
+  font-size: 23px;
 }
