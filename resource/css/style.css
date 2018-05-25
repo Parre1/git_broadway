@@ -3,6 +3,18 @@ body{
   font-family: Helvetica, sans-serif;
 }
 
+.head a{
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.foot a{
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+}
+
 .head{
   background: url("../images/building.jpg") no-repeat center;
   background-size: cover;
@@ -11,15 +23,26 @@ body{
   font-weight: bold;
 }
 
-a{
+.design{
+  background: url("../images/building.jpg") no-repeat center;
   color: white;
-  font-size: 18px;
   font-weight: bold;
+}
+
+.paragraph{
+  font-size: 14px;
 }
 
 .header{
   font-size: 23px;
   font-weight: bold;
+}
+
+.foot{
+  background-color: gray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
 }
 
 #title{
@@ -28,8 +51,4 @@ a{
 
 #process{
   font-size: 32px;
-}
-
-#identify{
-  font-size: 23px;
 }
